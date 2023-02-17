@@ -4,6 +4,5 @@ numpy
 pandas
 plotly
 opencv-contrib-python
-dlib==18.17.100
 face_recognition
 streamlit
